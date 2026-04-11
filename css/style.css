@@ -25,13 +25,13 @@ body {
 .hero h1 {
     font-size: 56px;
     margin-top: 20px;
-    color: #15847C;
+    color: #294d4b;
     line-height: 1.2;
 }
 
 .subtitle {
     font-size: 18px;
-    color: #555;
+    color: #383535;
 }
 
 
@@ -59,7 +59,7 @@ body {
 
 .tags {
     margin-top: 20px;
-    color: #222;
+    color: #141414;
 }
 
 .image img {
@@ -96,7 +96,7 @@ body {
     color: #bbb;
 }
 
-/* Media queries (o responsive) para los diferentes dispositivos móviles */
+/* Media queries (o diseño responsive) para los diferentes dispositivos móviles */
 @media (max-width: 900px) {
 
 .grid {
