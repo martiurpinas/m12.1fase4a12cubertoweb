@@ -96,8 +96,8 @@ body {
     color: #bbb;
 }
 
-/* Media queries (o diseño responsive) para los diferentes dispositivos móviles */
-@media (max-width: 900px) {
+/* Ajustes de las media queries (diseño responsive) para los diferentes dispositivos móviles */
+@media (max-width: 850px) {
 
 .grid {
     grid-template-columns: 1fr;
