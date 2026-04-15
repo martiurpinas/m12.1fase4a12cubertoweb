@@ -25,15 +25,14 @@ body {
 .hero h1 {
     font-size: 56px;
     margin-top: 20px;
-    color: #294d4b;
+    color: #447d68;
     line-height: 1.2;
 }
 
 .subtitle {
     font-size: 18px;
-    color: #383535;
+    color: #5c5757;
 }
-
 
 /* Ajustes para la sección 3 de la plataforma digital online */
 .project {
